@@ -1,7 +1,7 @@
 # Format Bytes
 [![Build Status](https://travis-ci.org/jongha/python-formatbytes.png?branch=master)](https://travis-ci.org/jongha/python-formatbytes)
 
-Get format bytes as a human readable string.
+Python-formatbytes is bytes to a readable string Converter. It supports the conversion of the unit such as B, KB, MB, GB, TB, PB, EB, ZB, YB. It also supports Kilobyte and Kibibyte.
 
 ## Usage
 
